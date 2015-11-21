@@ -1,9 +1,14 @@
 #!/bin/bash
 
-#first give execute permission to script
-# sudo chmod +x Installation_NS2-Nam.sh
-#then use execute script
-# ./Installation_NS2-Nam.sh
+# To run:
+#  open terminal,
+#  change directory to this script's location,
+#    $ cd <link to InstallHadoop.sh parent directory>
+#  give execute permission to the script,
+#    $ sudo chmod +x Installation_NS2-Nam.sh
+#  then execute the script,
+#    $ ./Installation_NS2-Nam.sh
+#
 
 sudo apt-get install -y ns2
 
