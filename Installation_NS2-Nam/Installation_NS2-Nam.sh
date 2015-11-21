@@ -8,7 +8,6 @@
 #    $ sudo chmod +x Installation_NS2-Nam.sh
 #  then execute the script,
 #    $ ./Installation_NS2-Nam.sh
-#
 
 sudo apt-get install -y ns2
 
