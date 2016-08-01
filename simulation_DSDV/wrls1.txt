@@ -1,0 +1,9 @@
+kubuntu@kubuntu:~/Downloads$ ns wrls1.tcl 
+num_nodes is set 3
+warning: Please use -channel as shown in tcl/ex/wireless-mitf.tcl
+INITIALIZE THE LIST xListHead
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+SORTING LISTS ...DONE!
+end simulation
+kubuntu@kubuntu:~/Downloads$ nam simwrls.nam
